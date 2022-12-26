@@ -1,0 +1,132 @@
+body{
+    margin: 0;
+}
+.h11{
+    margin-top: 0;
+    padding-left: 540px;
+    display: inline;
+    font-family: serif;
+    font-size: 3em;
+    color: #62B6B7;
+}
+.h12{
+    text-align: center;
+    margin-top: 40px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #62B6B7;
+}
+.linkedin{ font-family:sans-serif;
+    position:relative;
+    top: 10px;
+    left: 0px;
+    color: #62B6B7;
+}
+p{
+    padding-left: 0px;
+    padding-top: 0px;
+    text-align:center;
+    font-family: monospace;
+    font-size: large;
+    color: #62B6B7;
+}
+.top-container{
+    background-color: #EEF1FF;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-bottom: 0px;
+}
+.middle-container{
+    background-color:#F6F6F6;
+    padding-left: 0px;
+    padding-top: 90px;
+    padding-bottom: 100px;
+}
+.bottom-container{
+    background-color: #EEF1FF;
+    text-align: center;
+    padding-left: 330px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+.icon-img{
+    height: 200px;
+    display: block;
+}
+.cloud1{
+    padding-left: 170px;
+}
+.cloud2{
+    display:block;
+    padding-left: 160px;
+    padding-top: 50px;
+}
+.mountain{
+    display:block;
+    padding-left: 380px;
+    padding-top: 50px;
+}
+.tripti{
+    margin-left: 600px;
+    height: 200px;
+    border-radius: 100%;
+    border:3px solid #62B6B7;
+}
+.hi{
+    text-align:center;
+    font-family: monospace;
+    font-size: 2em;
+    color: #62B6B7;
+}
+hr{
+      border-style:none;
+      border-color: grey;
+      border-top-style:dotted;
+      border-width: 3px;
+      width: 10%;
+}
+.woman{
+    height: 150px;
+}
+h4{
+    text-align: center;
+    font-size: 2em;
+    color: #62B6B7;
+}
+.table1{
+    margin-left: 300px;
+    margin-bottom: 50px;
+}
+.table2{
+    padding-left: 120px;
+}
+form{
+    margin-top: 50px;
+    margin-left: 580px;
+    width: 20%;
+    text-align: center;
+	background: lightseagreen;
+	color: #fff;
+	border: 1px solid #eee;
+	border-radius: 20px;
+	box-shadow: 5px 5px 5px #eee;
+	text-shadow: none;
+}
+
+form:hover{
+    margin-top: 50px;
+    margin-left: 580px;
+    width: 20%;
+    text-align: center;
+	background: #016ABC;
+	color: #fff;
+	border: 1px solid #eee;
+	border-radius: 20px;
+	box-shadow: 5px 5px 5px #eee;
+	text-shadow: none;
+}
+.h31{
+    margin-top: 100px;
+    font-size: 2em;
+    text-align: center;
+
+}
